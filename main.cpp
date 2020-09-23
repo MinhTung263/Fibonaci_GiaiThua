@@ -28,7 +28,7 @@ class ToanHoc{
 			tam=tam*i;
 			
 		}
-		cout<<"\nGia thua cua "<<n<<" la "<<tam;
+		cout<<"\nGiai thua cua "<<n<<" la "<<tam;
 	}
 };
 int main(){
